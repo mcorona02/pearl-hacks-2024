@@ -26,18 +26,6 @@ class MainApp extends StatelessWidget {
                 ),
               ),
               Positioned(
-                top : 375, // Adjust the top position as needed
-                child : ElevatedButton(
-                  onPressed : null, // Set to null if no action is required
-                  child : Text(
-                    'Start',
-                    style : TextStyle(
-                      fontFamily: 'pixelSans',
-                      fontSize: 40,
-                    )),
-                ),
-              ),
-              Positioned(
                 top : 475,
                 child : ElevatedButton(
                   onPressed : null,
