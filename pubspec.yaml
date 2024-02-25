@@ -21,3 +21,6 @@ flutter:
     - family : Micro5
       fonts : 
         - asset : fonts/Micro5-Regular.ttf
+    - family : pixelSans
+      fonts :
+        - asset : fonts/pixelSans-Regular.ttf

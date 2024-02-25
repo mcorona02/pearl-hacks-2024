@@ -18,10 +18,10 @@ class MainApp extends StatelessWidget {
               Positioned(
                 top : 150,
                 child : Text(
-                  'title idk T^T',
+                  'Galáctiventura Cibernetica',
                   style : TextStyle(
-                    fontFamily: 'Micro5',
-                    fontSize: 150,
+                    fontFamily: 'pixelSans',
+                    fontSize: 100,
                   ),
                 ),
               ),
@@ -32,7 +32,8 @@ class MainApp extends StatelessWidget {
                   child : Text(
                     'Start',
                     style : TextStyle(
-                      fontSize: 50,
+                      fontFamily: 'pixelSans',
+                      fontSize: 40,
                     )),
                 ),
               ),
@@ -43,7 +44,8 @@ class MainApp extends StatelessWidget {
                   child : Text(
                     'Options',
                     style : TextStyle(
-                      fontSize : 50, 
+                      fontFamily: 'pixelSans',
+                      fontSize : 40, 
                     ),
                   ),
                 ),
