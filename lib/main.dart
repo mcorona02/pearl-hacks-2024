@@ -20,6 +20,7 @@ class MainApp extends StatelessWidget {
                 child : Text(
                   'title idk T^T',
                   style : TextStyle(
+                    fontFamily: 'Micro5',
                     fontSize: 150,
                   ),
                 ),

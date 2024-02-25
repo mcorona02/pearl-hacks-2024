@@ -17,3 +17,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts : 
+    - family : Micro5
+      fonts : 
+        - asset : fonts/Micro5-Regular.ttf
